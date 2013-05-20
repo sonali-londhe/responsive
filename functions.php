@@ -15,3 +15,4 @@ require ( get_template_directory() . '/includes/post-custom-meta.php' );
 require ( get_template_directory() . '/includes/tha-theme-hooks.php' );
 require ( get_template_directory() . '/includes/hooks.php' );
 require ( get_template_directory() . '/includes/version.php' );
+require ( get_template_directory() . '/includes/jetpack.php' );
